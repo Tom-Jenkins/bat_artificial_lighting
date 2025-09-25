@@ -1,0 +1,9 @@
+new("snmfProject", snmfProject.file = "snps.snmfProject", projDir = "C:/Users/tj311/OneDrive - University of Exeter/NERC_lighting_project/bat_artificial_lighting/data/WGS/", 
+    snmfDir = "snps.snmf/", input.file = "snps.geno", runs = list(), 
+    K = c(3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L), snmfClass.files = c("K3/run1/snps_r1.3.snmfClass", 
+    "K3/run2/snps_r2.3.snmfClass", "K3/run3/snps_r3.3.snmfClass", 
+    "K3/run4/snps_r4.3.snmfClass", "K3/run5/snps_r5.3.snmfClass", 
+    "K3/run6/snps_r6.3.snmfClass", "K3/run7/snps_r7.3.snmfClass", 
+    "K3/run8/snps_r8.3.snmfClass", "K3/run9/snps_r9.3.snmfClass", 
+    "K3/run10/snps_r10.3.snmfClass"), n = 198L, L = 81169L, creationTime = structure(1754386689.085, class = c("POSIXct", 
+    "POSIXt")))

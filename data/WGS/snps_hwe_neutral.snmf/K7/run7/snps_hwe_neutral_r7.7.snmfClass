@@ -1,0 +1,6 @@
+new("snmfClass", directory = "K7/run7/", snmfClass.file = "snps_hwe_neutral_r7.7.snmfClass", 
+    K = 7L, run = 7L, CPU = 1L, seed = 1478939312L, alpha = 10, 
+    percentage = 0.05, I = 0L, iterations = 200L, entropy = TRUE, 
+    tolerance = 1e-05, crossEntropy = 0.559875756726248, ploidy = 2L, 
+    Q.input.file = "", Q.output.file = "snps_hwe_neutral_r7.7.Q", 
+    G.output.file = "snps_hwe_neutral_r7.7.G")
