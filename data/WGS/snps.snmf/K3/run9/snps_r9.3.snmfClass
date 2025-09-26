@@ -1,5 +1,0 @@
-new("snmfClass", directory = "K3/run9/", snmfClass.file = "snps_r9.3.snmfClass", 
-    K = 3L, run = 9L, CPU = 1L, seed = 1716771094L, alpha = 10, 
-    percentage = 0.05, I = 0L, iterations = 200L, entropy = TRUE, 
-    tolerance = 1e-05, crossEntropy = 0.551577698194402, ploidy = 2L, 
-    Q.input.file = "", Q.output.file = "snps_r9.3.Q", G.output.file = "snps_r9.3.G")
